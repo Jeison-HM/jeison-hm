@@ -17,8 +17,6 @@ I love to make consumer products with great detail in mind for the best user exp
    <br />
 </p>
 
----
-
 ## ⚙️ Favorite Tools
 
 <p align="center">
@@ -33,8 +31,6 @@ I love to make consumer products with great detail in mind for the best user exp
   <img alt="GIMP" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-GIMP-9a8f83?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto"/>
   <br />
 </p>
-
----
 
 <p align="center">
    <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
