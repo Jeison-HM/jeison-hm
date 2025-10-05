@@ -35,6 +35,6 @@ I love to make consumer products with great detail in mind for the best user exp
 <p align="center">
    <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
    <a><img alt="Jeison's Github Stats" src="https://github-readme-stats-chi-five-16.vercel.app/api/?username=jeison-hm&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=FFFF" height="192px"/></a>
-   <a><img alt="Jeison's Top Languages" src="https://github-readme-stats-chi-five-16.vercel.app/api/top-langs/?username=jeison-hm&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=FFFF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+   <a><img alt="Jeison's Top Languages" src="https://github-readme-stats-chi-five-16.vercel.app/api/top-langs/?username=jeison-hm&langs_count=8&layout=compact&count_private=true&theme=gruvbox&hide_border=true&bg_color=00000000&text_color=FFFF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
    <br />
 </p>
