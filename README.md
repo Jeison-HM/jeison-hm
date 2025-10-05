@@ -11,24 +11,26 @@ I love to make consumer products with great detail in mind for the best user exp
 <p align="center">
   <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
   <a href="https://www.linkedin.com/in/jeison-hernández">
-    <img alt="linkedin profile" title="View my LinkedIn profile" width="100px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-white?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=black"/></a>
+    <img alt="linkedin profile" title="View my LinkedIn profile" width="100px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-white?style=for-the-badge&logoSource=feather&logo=linkedin&logoColor=black"/>
+    </a>
   <a href="https://www.upwork.com/freelancers/jeisonhernandez">
-    <img alt="upwork profile" title="View my UpWork profile" width="100px" src="https://custom-icon-badges.demolab.com/badge/-UpWork-black?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-   <br />
+    <img alt="upwork profile" title="View my UpWork profile" width="100px" src="https://custom-icon-badges.demolab.com/badge/-UpWork-black?style=for-the-badge&logo=upwork&logoColor=white"/>
+    </a>
+  <br />
 </p>
 
 ## ⚙️ Favorite Tools
 
 <p align="center">
-  <img alt="KiCad" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Kicad-314cb0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"/>
-  <img alt="Inventor" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Inventor-d4aa06?style=for-the-badge&logo=autodesk&logoColor=white&logoSize=auto"/>
-  <img alt="Blender" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Blender-e37200?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
-  <img alt="VS Code" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-VS Code-white?style=for-the-badge&logo=vscode&logoColor=blue&logoSize=auto"/>
-  <img alt="Git" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Git-ec4e1d?style=for-the-badge&logo=git&logoColor=white&logoSize=auto"/>
-  <img alt="AutoCAD" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-AutoCAD-df104e?style=for-the-badge&logo=autodesk&logoColor=white&logoSize=auto"/>
-  <img alt="Jupyter" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Jupyter-eb7325?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto"/>
-  <img alt="Inkscape" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Inkscape-black?style=for-the-badge&logo=inkscape&logoColor=white&logoSize=auto"/>
-  <img alt="GIMP" width="100px" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-GIMP-9a8f83?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto"/>
+  <img alt="KiCad" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Kicad-314cb0?style=for-the-badge&logo=kicad&logoColor=white&logoSize=auto"/>
+  <img alt="Inventor" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Inventor-d4aa06?style=for-the-badge&logo=autodesk&logoColor=white&logoSize=auto"/>
+  <img alt="Blender" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Blender-e37200?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto"/>
+  <img alt="VS Code" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-VS Code-white?style=for-the-badge&logo=vscode&logoColor=blue&logoSize=auto"/>
+  <img alt="Git" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Git-ec4e1d?style=for-the-badge&logo=git&logoColor=white&logoSize=auto"/>
+  <img alt="AutoCAD" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-AutoCAD-df104e?style=for-the-badge&logo=autodesk&logoColor=white&logoSize=auto"/>
+  <img alt="Jupyter" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Jupyter-eb7325?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto"/>
+  <img alt="Inkscape" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-Inkscape-black?style=for-the-badge&logo=inkscape&logoColor=white&logoSize=auto"/>
+  <img alt="GIMP" height="24.5px" style="padding-right:5px;" src="https://custom-icon-badges.demolab.com/badge/-GIMP-9a8f83?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto"/>
   <br />
 </p>
 
